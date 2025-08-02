@@ -1,7 +1,7 @@
 # Rubik-s-Cube-Solver
 A simple, interactive Python app that uses computer vision to recognize Rubik’s Cube faces and provides step-by-step solution moves. Supports 2x2, 3x3, and 4x4 cubes. 
 
-Features
+# Features
 User-friendly GUI: Built with Tkinter for quick setup and intuitive operation.
 
 Dynamic camera grid overlay: Live webcam feed with grid lines adapts to the chosen cube size, making face alignment easy.
@@ -14,7 +14,7 @@ Step-by-step solutions: Processes all faces and displays a sequence of moves for
 
 Extensible design: Ready for integration with advanced solving algorithms and custom color recognition improvements.
 
-How it Works
+# How it Works
 User opens the app and selects the cube size.
 
 The camera activates and shows a guiding grid for accurate cube face alignment.
@@ -25,7 +25,7 @@ After all six faces are collected, the app computes and shows the solution steps
 
 The user follows the steps to solve the cube.
 
-Requirements
+# Requirements
 Python 3
 
 Tkinter
